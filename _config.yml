@@ -1,0 +1,12 @@
+# Site settings
+title: Andy Whale's Blog
+email: andy@awhale.co.uk
+description: "Programming, Photography, Natural History, Tech, Etc"
+baseurl: ""
+url: "http://awhale.co.uk"
+twitter_username: AndyWhalePhoto
+github_username:  andywhale
+
+# Build settings
+markdown: kramdown
+permalink: pretty
