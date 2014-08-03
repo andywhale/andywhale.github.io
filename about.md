@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-**When did you start doing web development?**
+**When did you start your career in web development?**
 
-I started building web pages for local businesses in 1999 largely based around HTML/CSS (who doesn't remember Dreamweaver and even at one point Microsoft FrontPage!) and Flash (all Flash websites (hmmmm?!?!)). I started using tech such as initially Perl and quickly on to PHP from about 2001/2, with one of my great loves MySQL.
+I started building web pages for local businesses in 1999 (age 15) largely based around HTML/CSS (who doesn't remember Dreamweaver and even at one point Microsoft FrontPage!) and Flash (all Flash websites (hmmmm?!?!)). I started using tech such as initially Perl and quickly on to PHP from about 2001/2, with one of my great loves MySQL.
 
 **Can you juggle with more than three balls?**
 
@@ -19,3 +19,7 @@ I joined this party late, having spent many years under the idea that I wanted t
 **You mentioned photography: what do you shoot with?**
 
 I have always shot Nikon (I say always, I haven't been shooting with SLR's for years and years, only since the D3000) but I'm now using and loving the D600, it's quite weighty but takes some great shots.
+
+**Do you have any experience with CMS development?**
+
+Yes, I have now been using Drupal for a couple of years, and while I realise it has numerous flaws it is quite effective at what it does.
