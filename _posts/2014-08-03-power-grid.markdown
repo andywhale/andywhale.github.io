@@ -14,3 +14,11 @@ Disclaimer: At this point I have to mention that both of my folks work for a pow
 Disclaimers aside there is only issue with this game and I have subsequently learned it's a well-known issue: the rules.
 
 We spent a long time going through the rules ahead of playing, and believing this to be a complicated game, only to find that once you got started it's a VERY straightforward game.
+
+First up you set up the board as per the rule book, now here is my cut down version of the rest:
+
+## Step 1
+
+The player to go first is the player with the most cities (and a tie is decided by the highest number power plant).
+
+1. Bid on a power station from those in the current market (top row), if you pass on your go you may not bid on anyone else's go
