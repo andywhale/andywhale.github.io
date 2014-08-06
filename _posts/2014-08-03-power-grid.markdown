@@ -21,4 +21,6 @@ First up you set up the board as per the rule book, now here is my cut down vers
 
 The player to go first is the player with the most cities (and a tie is decided by the highest number power plant).
 
-1. Bid on a power station from those in the current market (top row), if you pass on your go you may not bid on anyone else's go
+1. Bid on a power station from those in the current market (top row), if you pass on your go you may not bid on anyone else's go.
+2. Buy resources for any of your power plants (plants can hold twice the number of resources shown).
+3. 
