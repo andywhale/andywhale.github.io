@@ -9,7 +9,7 @@ The newest edition to my board game collection has been Power Grid, and easily p
 
 Disclaimer: At this point I have to mention that both of my folks work for a power company so I cannot be sure that I have not been influenced from an early age, and this could be why I enjoyed the game so much.
 
-#The Rules
+# The Rules
 
 Disclaimers aside there is only issue with this game and I have subsequently learned it's a well-known issue: the rules.
 
