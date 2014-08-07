@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PHP 7 - what's in a name?"
+title:  "PHP Common Mistakes"
 date:   2014-08-07 06:40:00
 categories: programming
 ---
