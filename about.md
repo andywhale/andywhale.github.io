@@ -10,7 +10,7 @@ I started building web pages for local businesses in 1999 (age 15) largely based
 
 **Can you juggle with more than three balls?**
 
-No, I'm still trying,but currently trying to get to grips with hoops and clubs (which I'm finding a bit of a challenge.
+No, I'm still trying, but currently trying to get to grips with hoops and clubs (which I'm finding a bit of a challenge).
 
 **Which frameworks do you prefer?**
 
@@ -22,4 +22,4 @@ I have always shot Nikon (I say always, I haven't been shooting with SLR's for y
 
 **Do you have any experience with CMS development?**
 
-Yes, I have now been using Drupal for a couple of years, and while I realise it has numerous flaws it is quite effective at what it does.
+Yes, I have now been using Drupal for a couple of years, and while I realise it has numerous flaws (in so much as any out of the box CMS does) it is quite effective at what it does.
