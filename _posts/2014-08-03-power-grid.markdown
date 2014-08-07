@@ -2,7 +2,7 @@
 layout: post
 title:  "Power Grid"
 date:   2014-08-03 07:44:27
-categories: board games
+categories: games
 ---
 
 The newest edition to my board game collection has been Power Grid, and easily pushes it's way into second place. It's an amazing game of buying and selling power commodities and building up cities but also having the resources to power them.
