@@ -14,9 +14,14 @@ there way into PHP 5.3. Therefore the decision has been taken to avoid confusion
 
 ## More than a number
 
-The most exciting talk about the next release of PHP surround it's feature concentration, and the key buzz is around performance,
-almost certainly as response to alternative PHP variants such as Facebook's HHVM (for which they released a formal spec for the language [https://github.com/php/php-langspec/tree/master/spec]).
+The most exciting talk about the next release of PHP surround it's feature concentration, and the key buzz is around performance.
 
-A really interesting article on phpclasses goes into more detail:
-http://www.phpclasses.org/blog/post/242-PHP-7-Features-and-Release-Date.html
+[A really interesting article on phpclasses goes into more detail](http://www.phpclasses.org/blog/post/242-PHP-7-Features-and-Release-Date.html)
 
+## Performance and Facebook
+
+This push for performance has been lead by a performance push from the alternative PHP variants such as Facebook's HHVM.
+
+Last week Facebook put together a formal spec for the PHP, illustrating how they see themselves leading the way. 
+
+[Facebook's PHP Formal Spec](https://github.com/php/php-langspec/tree/master/spec)
