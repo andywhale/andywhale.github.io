@@ -22,6 +22,10 @@ The most exciting talk about the next release of PHP surround it's feature conce
 
 This push for performance has been lead by a performance push from the alternative PHP variants such as Facebook's HHVM.
 
-Last week Facebook put together a formal spec for the PHP, illustrating how they see themselves leading the way. 
+Last week Facebook put together a formal spec for PHP, illustrating how they see themselves leading the way. 
 
 [Facebook's PHP Formal Spec](https://github.com/php/php-langspec/tree/master/spec)
+
+## The Future
+
+If all of the rumblings from the web end up being true then this could really be a giant stride for the language and a massive benefit for us all, so fingers crossed from this corner.
