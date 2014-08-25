@@ -73,19 +73,40 @@ a:visited { color: #205caa; }
   letter-spacing: -.5px;
 }
 
-.header-quote {
+.header-block {
   display: block;
-  background-color: #205caa;
-  padding: 30px;
-  color: #FFFFFF;
-  text-align: center;
   font-size: 10px;
+  color: #FFFFFF;
+}
+.header-quote {
+  background-color: #205caa;
+  min-height: 120px;
+  float: left;
+  width: 60%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
 }
 .header-quote .quote {
   font-size: 20px;
   display: block;
-  margin-left: 20%;
-  margin-right: 20%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.header-about {
+  min-height: 120px;
+  float: right;
+  width: 40%;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #333333;
+}
+.header-about .quote {
+  font-size: 20px;
+  display: block;
+  margin-left: 10%;
+  margin-right: 10%;
 }
 
 /* Site footer */
