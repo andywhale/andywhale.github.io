@@ -13,65 +13,83 @@ Having said this I find myself looking back at old mobile technology ahead of a 
 
 ### The Nokia Era
 
-#### Nokia 3310 (1999)
+![](http://cdn2.gsmarena.com/vv/bigpic/no3310b.gif){: .leftfloat }
 
-![](http://cdn2.gsmarena.com/vv/bigpic/no3310b.gif)
+#### Nokia 3310 (1999)
 
 I'm pretty sure everyone had one of these, a great phone that did exactly what it said on the phone - plus games.
 
-#### Nokia 8310 (2001)
+<hr class="seperator" />
 
-![](http://cdn2.gsmarena.com/vv/bigpic/no8310.gif)
+![](http://cdn2.gsmarena.com/vv/bigpic/no8310.gif){: .leftfloat }
+
+#### Nokia 8310 (2001)
 
 Technology then shrunk considerably and you got all the "power" of the 3310 in a smaller funkier shell.
 
-#### Nokia 6310 (2003)
+<hr class="seperator" />
 
-![](http://cdn2.gsmarena.com/vv/bigpic/no6310i.gif)
+![](http://cdn2.gsmarena.com/vv/bigpic/no6310i.gif){: .leftfloat }
+
+#### Nokia 6310 (2003)
 
 Step up one of the best phones ever made, and one I would return to a couple of times (albeit for short periods). The 6310 was a great phone, and would only be replaced either through extensive damage or a lack of newer tech.
 
+<hr class="seperator" />
+
 ### The Blip - Samsung
+
+![](http://cdn2.gsmarena.com/vv/bigpic/sse330.gif){: .leftfloat }
 
 #### Samsung - Some Flip Phone (2004)
 
-![](http://cdn2.gsmarena.com/vv/bigpic/sse330.gif)
-
 I confess I got tempted away from Nokia, by the intro of the flip phone, with a camera and two screens. For a week, before it went back and I moved back to Nokia.
+
+<hr class="seperator" />
 
 ### Returning to Nokia
 
-#### Nokia 6680 (2005)
+![](http://cdn2.gsmarena.com/vv/bigpic/no6680.gif){: .leftfloat }
 
-![](http://cdn2.gsmarena.com/vv/bigpic/no6680.gif)
+#### Nokia 6680 (2005)
 
 This phone saw a leap in technology with the introduction of both back and front facing camera (ah all of those video calls - both of them). 
 
-#### Nokia E65 (2007)
+<hr class="seperator" />
 
-![](http://cdn2.gsmarena.com/vv/bigpic/nokia-e65.gif)
+![](http://cdn2.gsmarena.com/vv/bigpic/nokia-e65.gif){: .leftfloat }
+
+#### Nokia E65 (2007)
 
 Not a huge jump in technology, but in terms of form a brilliant phone, sitting well in both hand and pocket, and the slider technology a thing of beauty.
 
-#### Nokia E71 (2009)
+<hr class="seperator" />
 	
-![](http://cdn2.gsmarena.com/vv/bigpic/nokia-e71.jpg)
+![](http://cdn2.gsmarena.com/vv/bigpic/nokia-e71.jpg){: .leftfloat }
+
+#### Nokia E71 (2009)
 
 As blackberry were taking over the world Nokia released this quite frankly very competitive qwerty phone, again great build quality, but unfortunately the final in my line of Nokia phones as they failed to keep up in the touchscreen stakes.
 
+<hr class="seperator" />
+
 ### The HTC Era
+
+![](http://cdn2.gsmarena.com/vv/bigpic/htc-bravo.jpg){: .leftfloat }
 
 #### HTC Desire (2011)
 
-![](http://cdn2.gsmarena.com/vv/bigpic/htc-bravo.jpg)
-
 Just as the Desire HD was being launched the Desire dropped in price and became an affordable touchscreen phone and a leap in technology and phone usage. Including effective e-mail management and internet browsing with the larger screen real estate.
+
+<hr class="seperator" />
+
+![](http://cdn2.gsmarena.com/vv/bigpic/htc-one-x-plus-ofic.jpg){: .leftfloat }
 
 #### HTC One X+ (2013)
 
-![](http://cdn2.gsmarena.com/vv/bigpic/htc-one-x-plus-ofic.jpg)
-
 This time a move with the latest tech came back to bite me, as the One X+ was the most cutting edge phone from HTC at the time of purchase, although about two weeks later it would be replaced with probably the best phone HTC have ever made the HTC One.
+
+<hr class="seperator" />
 
 ## Retroactively Fitting Views
 

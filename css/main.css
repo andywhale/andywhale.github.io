@@ -73,6 +73,21 @@ a:visited { color: #205caa; }
   letter-spacing: -.5px;
 }
 
+.header-quote {
+  display: block;
+  background-color: #205caa;
+  padding: 30px;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 10px;
+}
+.header-quote .quote {
+  font-size: 20px;
+  display: block;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
 /* Site footer */
 
 .site-footer {
@@ -162,9 +177,18 @@ a:visited { color: #205caa; }
   color: #818181;
 }
 
+.leftfloat {
+  float: left;
+}
 
 /* Post styles */
 /* ----------------------------------------------------------*/
+
+.seperator {
+  clear: both;
+  border: 0px;
+  padding: 6px;
+}
 
 .post-header { margin: 10px 0 30px; }
 
@@ -184,7 +208,6 @@ a:visited { color: #205caa; }
 .post-content { margin: 0 0 30px; }
 
 .post-content > * { margin: 20px 0; }
-
 
 .post-content h1,
 .post-content h2,

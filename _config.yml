@@ -6,6 +6,7 @@ baseurl: ""
 url: "http://awhale.co.uk"
 twitter_username: andywhalephoto
 github_username:  andywhale
+facebook_username: andywhalephoto
 
 # Build settings
 markdown: kramdown
