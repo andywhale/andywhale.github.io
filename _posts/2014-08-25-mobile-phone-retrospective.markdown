@@ -5,8 +5,6 @@ date:   2014-08-25 09:04:00
 categories: tech
 ---
 
-# Mobile Phone Restrospective
-
 When preparing to move to a new technology I have a bad habit of looking back ahead of looking forward, this has lead to some odd decisions in the past, as you review previous technologies with what you remember rather than comparing it to current technologies, and how obsolete the item has become. This has included the second (and third) purchase of a Nintendo 64, a SNES, Megadrive, Playstation, Nokia 6310, and Nokia 6210, to name but a few. These technologies were all quickly rejected as no longer up to scratch, and I like to feel I have learned from this.
 
 Having said this I find myself looking back at old mobile technology ahead of a decision of whether to stand by HTC, or jump ship to the Apple iPhone.
