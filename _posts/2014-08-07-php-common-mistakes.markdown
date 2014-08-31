@@ -3,6 +3,7 @@ layout: post
 title:  "PHP Common Mistakes"
 date:   2014-08-07 06:40:00
 categories: programming
+thumbnail: images/php-broken.png
 ---
 
 ## Common Mistakes

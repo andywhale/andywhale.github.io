@@ -3,6 +3,7 @@ layout: post
 title:  "Power Grid"
 date:   2014-08-03 07:44:27
 categories: games
+thumbnail: http://www.starlitcitadel.com/games/media/catalog/product/cache/7/image/66ffab2fe682907a17e1679a1175a522/p/o/power+grid+front.jpg
 ---
 
 The newest edition to my board game collection has been Power Grid, and easily pushes it's way into second place (first place has to go to Ticket to Ride, and I'm sure always will). It's an amazing game of buying and selling power commodities and building up cities but also having the resources to power them.
