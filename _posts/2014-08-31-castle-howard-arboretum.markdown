@@ -16,4 +16,6 @@ I did of course have my camera to hand, and fortunately the flora & fauna lends 
 
 <iframe src="https://www.flickr.com/photos/awhale/15102641405/in/set-72157646681145389/player/" width="100%" height="500" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
+[Here are the rest of the photo's I took](https://www.flickr.com/photos/awhale/sets/72157646681145389)
+
 [Visit the Arboretum Website](http://www.yorkshirearboretum.org/)
