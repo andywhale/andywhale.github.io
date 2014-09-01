@@ -13,7 +13,7 @@ but in the process I got some photos I'm really pleased with of the city in whic
 
 So please take a look, and let me know what you think.
 
-<iframe src="https://www.flickr.com/photos/awhale/8561119775/in/set-72157633007779320/player/" width="100%" height="686" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe src="https://www.flickr.com/photos/awhale/8561119775/in/set-72157633007779320/player/" width="100%" height="600" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 [See the full York Gallery](https://www.flickr.com/photos/awhale/sets/72157633007779320)
 
@@ -21,6 +21,6 @@ So please take a look, and let me know what you think.
 
 I also took a few at the Jorvik Viking Festival
 
-<iframe src="https://www.flickr.com/photos/awhale/8560726775/in/set-72157633008070810/player/" width="100%" height="685" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe src="https://www.flickr.com/photos/awhale/8560726775/in/set-72157633008070810/player/" width="100%" height="600" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 [See the Jorvik Viking Festival Gallery](https://www.flickr.com/photos/awhale/sets/72157633007779320)
