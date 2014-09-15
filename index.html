@@ -20,16 +20,26 @@ layout: default
   <ul class="posts">
     {% for post in site.posts %}
       <li>
-        {% if post.thumbnail %}
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-          <span class="post-thumb-container"><img src="{{ post.thumbnail }}" class="post-thumb" align="center" /></span>
-        </a>
+        {% if post.flickr %}
+          <span class="flickr-post">
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <iframe class="flickr-gallery" src="{{ post.flickr }}" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+            <span class="post-summary">{{ post.content | truncatewords:50 | strip_html }}</span>
+          </span>
         {% else %}
-        <span class="post-just-tags">{{ post.categories }}</span>
+          {% if post.thumbnail %}
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+            <span class="post-thumb-container"><img src="{{ post.thumbnail }}" class="post-thumb" align="center" /></span>
+          </a>
+          {% else %}
+          <span class="post-just-tags">{{ post.categories }}</span>
+          {% endif %}
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+          <span class="post-summary">{{ post.content | truncatewords:50 | strip_html }}</span>
         {% endif %}
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-	<span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-	<span class="post-summary">{{ post.content | truncatewords:50 | strip_html }}</span>
+        <span class="post-tags">{{ post.categories }}</span>
       </li>
     {% endfor %}
   </ul>

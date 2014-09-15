@@ -202,8 +202,31 @@ a:visited { color: #205caa; }
   color: #818181;
 }
 
+.posts .flickr-post .post-date {
+  float: right;
+}
+
 .leftfloat {
   float: left;
+}
+
+.flickr-gallery {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 100%;
+  max-width: 800px;
+  height: 535px;
+}
+
+.post-tags {
+  clear: both;
+  background: #EDEDED;
+  color: #666666;
+  font-size: 12px;
+  display: block;
+  padding: 6px;
+  text-align: right;
+  margin-top: 10px;
 }
 
 .post-thumb-container {
