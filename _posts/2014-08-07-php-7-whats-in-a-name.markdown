@@ -3,7 +3,7 @@ layout: post
 title:  "PHP 7 - what's in a name?"
 date:   2014-08-07 06:40:00
 categories: programming
-thumbnail: images/php-green.png
+thumbnail: /images/php-green.png
 ---
 
 ## PHP++
