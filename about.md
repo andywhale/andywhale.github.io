@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+Following 3 years heading up IT & Web infrastructure at the UK's largest independant financial compliance network, I now have the joy of working with clients including Blue Cross, Cancer Research UK, the Equality & Human Rights Commission, Bournemouth University, the BFI and Channel 4 with the fantastic digital agency Numiko.
+
 **When did you start your career in web development?**
 
 I started building web pages for local businesses in 1999 (age 15) largely based around HTML/CSS (who doesn't remember Dreamweaver and even at one point Microsoft FrontPage!) and Flash (all Flash websites (hmmmm?!?!)). I started using tech such as initially Perl and quickly on to PHP from about 2001/2, with one of my great loves MySQL.
