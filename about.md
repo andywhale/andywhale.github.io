@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Following 3 years heading up IT & Web infrastructure at the UK's largest independant financial compliance network, I now have the joy of working with clients including Blue Cross, Cancer Research UK, the Equality & Human Rights Commission, Bournemouth University, the BFI and Channel 4 with the fantastic digital agency Numiko.
+Following 3 years heading up IT & Web infrastructure for the UK's largest independant financial compliance network, I now have the joy of working with clients including Blue Cross, Cancer Research UK, the Equality & Human Rights Commission, Bournemouth University, the BFI and Channel 4 with the fantastic digital agency Numiko.
 
 **When did you start your career in web development?**
 
