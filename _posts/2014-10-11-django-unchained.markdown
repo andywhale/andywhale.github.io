@@ -28,11 +28,9 @@ The only note I would add here is that this will dependant on your permissions a
 
 One more step to verify the install ran correctly
 
-```
-python
->>> import django
->>> print(django.get_version())
-1.7
-```
+```python```
+```>>> import django```
+```>>> print(django.get_version())```
+```1.7```
   
 And I was ready to begin :-)
