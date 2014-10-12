@@ -30,11 +30,8 @@ One more step to verify the install ran correctly
 
 ```
 python
-
 >>> import django
-
 >>> print(django.get_version())
-
 1.7
 ```
   
