@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Starting with Python"
-date:   2014-08-07 06:40:00
+date:   2014-10-11 06:40:00
 categories: programming
 thumbnail: http://www.tutorgrams.com/images/python.png
 ---
