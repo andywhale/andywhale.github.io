@@ -1,16 +1,22 @@
 ---
 layout: post
-title:  "A visit to Horsham Mill"
-date:   2015-03-21 18:30:00
+title:  "Holidaying in Edinburgh"
+date:   2015-02-28 19:50:00
 categories: photography
-flickr: https://www.flickr.com/photos/awhale/16709400370/in/set-72157651084927369/player/
+flickr: https://www.flickr.com/photos/awhale/16750915101/in/set-72157651240670295/player/
 
 ---
 
-Half an hours drive took us to a great restoration project, the revival of a 18th Century mill, now an active part of the community and well worth a visit to [their website](http://www.howshammill.org.uk) to find out what's going on.
+A great weekend in Edinburgh consisting of some fantastic food, great historic sites and amazing museums. The museums included both the National Museum of Scotland and National Portrait Gallery, and the history continued with Edinburgh castle.
 
-Here are a few photos I took while visiting.
+But I would admit that the highlight was the vast quantities of food eaten, and I just wanted to mention recommendations of all of the amazing eateries.
 
-<iframe src="https://www.flickr.com/photos/awhale/16709400370/in/set-72157651084927369/player/" width="100%" height="535" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+[Henderson's Bistro](http://www.hendersonsofedinburgh.co.uk) - this place has a great informal atmosphere, and the Hungarian Bean burger is delicious; if you're after tasty vegetarian cuisine the you should visit this place.
 
-[See the full album](https://www.flickr.com/photos/awhale/sets/72157651084927369/)
+[Smoke Stack](http://www.smokestack.org.uk) - at the other end of the spectrum, a carnivores dream traditional breakfast with sausage, bacon, black pudding and the all important baked beans, among the usual mushrooms, fried eggs, etc. I can honestly say I think this is the best breakfast ever, and Kate thoroughly enjoyed waffles with banana and chocolate sauce.
+
+I also took some photos at Edinburgh Castle.
+
+<iframe src="https://www.flickr.com/photos/awhale/16750915101/in/set-72157651240670295/player/" width="100%" height="535" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+[See the full album](https://www.flickr.com/photos/awhale/sets/72157651240670295/)
