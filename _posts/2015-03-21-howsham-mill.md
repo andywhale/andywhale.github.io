@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A visit to Horsham Mill"
+title:  "A visit to Howsham Mill"
 date:   2015-03-21 18:30:00
 categories: photography
 flickr: https://www.flickr.com/photos/awhale/16709400370/in/set-72157651084927369/player/
