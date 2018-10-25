@@ -15,59 +15,6 @@ layout: default
 
 <hr class="seperator" />
 
-<div class="home">
-
-  <ul class="posts">
-    {% for post in paginator.posts %}
-      <li>
-        {% if post.flickr %}
-          <span class="flickr-post">
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-            <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-            <iframe class="flickr-gallery" src="{{ post.flickr }}" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-            <span class="post-summary">{{ post.content | truncatewords:50 | strip_html }}</span>
-          </span>
-        {% else %}
-          {% if post.thumbnail %}
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-            <span class="post-thumb-container"><img src="{{ post.thumbnail }}" class="post-thumb" align="center" /></span>
-          </a>
-          {% else %}
-          <span class="post-just-tags">{{ post.categories }}</span>
-          {% endif %}
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-          <span class="post-summary">{{ post.content | truncatewords:50 | strip_html }}</span>
-        {% endif %}
-        <span class="post-tags">{{ post.categories }}</span>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <hr class="seperator">
-
-  {% if paginator.total_pages > 1 %}
-  <div class="pagination">
-    {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Newer Articles</a>
-    {% endif %}
-
-    {% for page in (1..paginator.total_pages) %}
-      {% if page == paginator.page %}
-        <em>{{ page }}</em>
-      {% elsif page == 1 %}
-        <a href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
-      {% else %}
-        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-      {% endif %}
-    {% endfor %}
-
-    {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Previous Articles &raquo;</a>
-    {% endif %}
-  </div>
-  {% endif %}
-
-  <div class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></div>
+<h1>Andy Whale</h1>
 
 </div>
